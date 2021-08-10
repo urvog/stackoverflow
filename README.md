@@ -1,5 +1,5 @@
 
-### Table of Contents
+### TABLA DE CONTENIDOS
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
